@@ -1,4 +1,4 @@
 {
-  "version": "1.1.0",
-  "message": "Improved debug system, chat notifications and a major bug fix."
+  "version": "1.2.0",
+  "message": "Improved comments and chat notifications, and added an anticheat integration."
 }
