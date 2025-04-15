@@ -1,4 +1,4 @@
 {
-  "version": "1.2.0",
-  "message": "Improved comments and chat notifications, and added an anticheat integration."
+  "version": "1.3.0",
+  "message": "Added a CanCarryItem export."
 }
